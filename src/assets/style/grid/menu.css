@@ -1,0 +1,15 @@
+.menu-lateral{
+    display: grid;
+    grid-template-rows: auto auto auto 1fr;
+    row-gap: 2rem;
+}
+
+.menu-lateral nav ul{
+    display: grid;
+    gap: 1rem;
+    grid-template-rows: auto auto auto;
+}
+.menu-lateral__logo{
+    justify-content: center;
+    display: grid;
+}
