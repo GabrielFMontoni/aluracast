@@ -10,7 +10,7 @@ Um projeto desenvolvido no curso de Grid de CSS da empresa Alura.
 Este projeto foi realizado para testes durante 3 cursos que realizei sobre Git e GitHub na Alura!
 
 ## :file_folder: Acesso ao projeto
-Este projeto não foi hospedado e não é possível acessa-lo na web.
+https://aluracast-lilac.vercel.app
 
 ## :hammer_and_wrench: Abrir e rodar o projeto
 Abra o arquivo "index.html" em seu navegador.
